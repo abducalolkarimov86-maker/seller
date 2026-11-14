@@ -1,0 +1,6 @@
+{
+  "name": "Karimov UC Shop",
+  "description": "Магазин UC для PUBG Mobile от Каримова Абдучалола. Актуальные цены на UC, пополнение по Player ID и оплата через Душанбе Сити (ДС) на номер 021090008.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
